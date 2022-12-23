@@ -1,0 +1,19 @@
+` 1. Execute the code in "test.c" by hand, and write the output
+    into a file called "answer.txt"
+
+ 2. Create a Makefile to compile test.c into a program called "test"
+     
+ 3. Run test and use its output to check your work.
+
+ 4. Submit your Makefile and your answer.txt file
+
+x=3 y=4
+a->x b=4
+In f, *a = 3, b
+a->x = 3+4=7
+b=8
+g(x=7, y->b)
+    In g, x = 7, *y =8
+    x=8
+    y->b = 0
+In main: x = 7, y =4

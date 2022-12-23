@@ -1,0 +1,8 @@
+animal:dragon
+animal:walrus
+sadasd
+: ordinar:y:
+:cave
+adjective:peculiar
+adjective:scary
+adjective:peaceful
